@@ -1,0 +1,364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"search_item"
+			],
+			[
+				"query",
+				"queryset"
+			],
+			[
+				"produ",
+				"productionTimes"
+			],
+			[
+				"quer",
+				"queryset"
+			],
+			[
+				"q",
+				"queryname"
+			],
+			[
+				"e",
+				"elif"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"sub",
+				"subcategories"
+			],
+			[
+				"get_listed",
+				"get_listed_subCategories"
+			],
+			[
+				"man",
+				"manufacturers"
+			],
+			[
+				"item",
+				"item_list"
+			],
+			[
+				"OT",
+				"OTHER"
+			],
+			[
+				"O",
+				"OTHER"
+			],
+			[
+				"CA",
+				"CAULKING"
+			],
+			[
+				"W",
+				"WATERPROOFING"
+			],
+			[
+				"contr",
+				"Contractor"
+			],
+			[
+				"Ar",
+				"Architects"
+			],
+			[
+				"archi",
+				"architects"
+			],
+			[
+				"equi",
+				"equipment"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"co",
+				"conf"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"a",
+				"action	Attr"
+			],
+			[
+				"add",
+				"add_materials"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"P",
+				"ProductionRateForm"
+			],
+			[
+				"m",
+				"model"
+			],
+			[
+				"C",
+				"ContractorForm"
+			],
+			[
+				"Manufact",
+				"manufacturer"
+			],
+			[
+				"M",
+				"ModelForm"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"update",
+				"update_productreps"
+			],
+			[
+				"up",
+				"update_contractors"
+			],
+			[
+				"Co",
+				"Contractor"
+			],
+			[
+				"Cont",
+				"ContractorRep"
+			],
+			[
+				"Pro",
+				"ProductRep"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"MA",
+				"MAN_HOUR"
+			],
+			[
+				"F",
+				"FOOTAGE_TYPE_CHOICES"
+			],
+			[
+				"max_",
+				"max_length"
+			],
+			[
+				"de",
+				"decimal_places"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dev/Desktop/django110/static_cdn/css/base.css",
+		"/Users/dev/Desktop/django110/src/estimator/admin.py",
+		"/Users/dev/Desktop/django110/src/estimate/settings/local.py",
+		"/Users/dev/Desktop/django110/src/estimate/settings/base.py",
+		"/Users/dev/Desktop/django110/src/estimate/settings.py",
+		"/Users/dev/Desktop/django110/src/estimator/templatetags/filters.py",
+		"/Users/dev/Desktop/django110/src/templates/group.html",
+		"/Users/dev/Desktop/django110/src/templatetags/__init__.py",
+		"/Users/dev/Desktop/django110/src/templatetags/filters.py",
+		"/Users/dev/Desktop/django110/src/estimator/templatetags/__init__.py",
+		"/Users/dev/Desktop/django110/src/estimator/templatetags/removeify.py",
+		"/Users/dev/Desktop/django110/src/static/css/base.css",
+		"/Users/dev/Desktop/django110/src/templates/item.html",
+		"/Users/dev/Desktop/django110/src/templates/base.html",
+		"/Users/dev/Desktop/django110/src/templates/header.html",
+		"/Users/dev/Desktop/django110/src/estimate/settings/production.py",
+		"/Users/dev/Desktop/django110/src/estimator/urls.py",
+		"/Users/dev/Desktop/django110/src/templates/index.html",
+		"/Users/dev/Desktop/django110/src/estimate/urls.py",
+		"/Users/dev/Desktop/django110/src/estimator/forms.py",
+		"/Users/dev/Desktop/django110/src/templates/add.html",
+		"/Users/dev/Desktop/django110/src/templates/updatearchitects.html",
+		"/Users/dev/Desktop/django110/src/templates/addequipment.html",
+		"/Users/dev/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dev/Desktop/django110/src/templates/updatematerials.html",
+		"/Users/dev/Desktop/django110/src/templates/updatedistributors.html",
+		"/Users/dev/Desktop/django110/src/templates/updatecontractorrep.html",
+		"/Users/dev/Desktop/django110/src/estimator/views.py",
+		"/Users/dev/Desktop/django110/src/templates/updatesalesrep.html",
+		"/Users/dev/Desktop/django110/src/templates/updateproductreps.html",
+		"/Users/dev/Desktop/django110/src/templates/updatecontractors.html",
+		"/Users/dev/Desktop/django110/src/templates/updateequipment.html",
+		"/Users/dev/Desktop/django110/src/templates/updaterates.html",
+		"/Users/dev/Desktop/django110/src/estimator/__init__.py",
+		"/Users/dev/Desktop/django110/src/estimate/settings/__init__.py",
+		"/Users/dev/Desktop/django110/.gitignore",
+		"/Users/dev/Desktop/django110/src/.gitignore"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "estimating.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
