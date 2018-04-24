@@ -20,5 +20,5 @@ from estimatingtools.views import *
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^$', home),
+    url(r'^$', DashboardView.as_view()),
 ]
